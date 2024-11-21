@@ -1,0 +1,34 @@
+[
+	{
+		"model": "base.condominio",
+		"pk": 1,
+		"fields": {
+			"name": "Condominio #1",
+			"ubicacion": "Sindempart"
+		}
+	},
+	{
+		"model": "base.condominio",
+		"pk": 2,
+		"fields": {
+			"name": "Condominio #2",
+			"ubicacion": "Serena"
+		}
+	},
+	{
+		"model": "base.condominio",
+		"pk": 3,
+		"fields": {
+			"name": "Condominio #3",
+			"ubicacion": "Ovalle"
+		}
+	},
+	{
+		"model": "base.condominio",
+		"pk": 4,
+		"fields": {
+			"name": "Condominio #4",
+			"ubicacion": "La Higuera"
+		}
+	}
+]
